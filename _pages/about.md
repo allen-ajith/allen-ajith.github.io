@@ -6,7 +6,7 @@ subtitle: allen.ajith [at] nyu [dot] edu
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: 
 
@@ -17,9 +17,16 @@ social: true # includes social icons at the bottom of the page
 
 I'm an incoming MSCS student at [NYU Courant](https://cs.nyu.edu/home/index.html).
 
-My current research interests are: Computer Vision, Few-Shot Learning and Representation Learning. In the past, I've worked on research projects related to Trustworthy ML Systems, Federated Learning, Link Prediction and Node Sampling methods.
+My current research interests are **Computer Vision, Few-Shot Learning** and **Representation Learning**. In the past, I've worked on research projects related to Trustworthy ML Systems, Federated Learning, Link Prediction, Node Sampling methods and Zero Knowledge Proofs.
 
-Here is my [CV](assets/pdf/CV.pdf).
+
+Here is my [CV](assets/pdf/CV.pdf) <br>
+
+
+
+
+
+*Last updated - June 2024*.
 
 
 <!--
