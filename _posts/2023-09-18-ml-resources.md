@@ -38,7 +38,9 @@ The sheer volume of courses and textbooks about Machine learning might seem over
 
 #### What next **pt.2**?
 
-Making projects and reading research papers helps you understand the latest advancements in the field. Try implementing the code from these papers to see how it works in practice. 
+Making projects and reading research papers will help you understand the latest advancements in the field. Try implementing the code from these papers to see how it works in practice. 
+
+All the best!
 
 
 
