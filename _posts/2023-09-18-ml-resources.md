@@ -10,14 +10,16 @@ categories: resources
 The sheer volume of courses and textbooks about Machine learning might seem overwhelming, but getting started is easier than you think. I first became interested during my second year of undergrad, which I spent in lockdown building ML projects. Here are some resources that I've personally used and found incredibly helpful.
 
 
-0. [3Blue1Brown's Linear Algebra series ](https://www.3blue1brown.com/topics/linear-algebra)
--*Optional*, but a personal favorite cause it's a really intuitive introduction to matrix math we'll be using.
+1. [3Blue1Brown's Linear Algebra series ](https://www.3blue1brown.com/topics/linear-algebra)
+- *Optional*, but a personal favorite cause it's a really intuitive introduction to matrix math we'll be using.
 
-1. [Machine learning by Andrew Ng](https://www.coursera.org/specializations/machine-learning-introduction) 
+2. [Machine learning by Andrew Ng](https://www.coursera.org/specializations/machine-learning-introduction) 
 - Beginner friendly introduction to Machine Learning that'll help you build a solid base.
 
-2. [An Introduction to Statistical Learning with Python](https://www.statlearning.com/)
+3. [An Introduction to Statistical Learning with Python](https://www.statlearning.com/)
 - I used this more as a reference textbook and imo it's best to have a decent understanding of statistics and linear algebra before you start reading.  
+
+<br>
 
 ### What next?
 
