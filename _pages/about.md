@@ -28,7 +28,7 @@ Here is my [CV](assets/pdf/CV.pdf) <br>
 
 
 
-*Last updated - June 2024*.
+*Last updated - September 2024*.
 
 
 <!--
