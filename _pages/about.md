@@ -19,16 +19,10 @@ I'm a MSCS student at [NYU Courant](https://cs.nyu.edu/home/index.html).
 
 I did my bachelors in Computer Science and Engineering at School of Engineering, [CUSAT](https://www.cusat.ac.in/)
 
-My current research interests are **Computer Vision, Few-Shot Learning** and **Representation Learning**. In the past, I've worked on research projects related to Trustworthy ML Systems, Federated Learning, Link Prediction, Node Sampling methods and Zero Knowledge Proofs.
+My current research interests are **Self Supervised Learning** and **Representation Learning** *(but feel free to ping me if you're working on something else interesting!)*<br>In the past, I've worked on projects related to Trustworthy ML Systems, Federated Learning, Link Prediction, Node Sampling methods and Zero Knowledge Proofs.
 
 
-Here is my [CV](assets/pdf/CV.pdf) <br>
-
-
-
-
-
-*Last updated - September 2024*.
+Here is my *(hopefully updated)* [CV](assets/pdf/CV.pdf) <br>
 
 
 <!--

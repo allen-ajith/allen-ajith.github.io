@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Started working with Professor Dennis E. Shasha's group on a project related to High Frequency
+Working with Professor Dennis E. Shasha's group on a project related to High Frequency
 Data Forecasting for FX markets.

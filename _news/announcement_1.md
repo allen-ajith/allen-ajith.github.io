@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'm excited to announce that I've been accepted to the MSCS program at NYU Courant and will be joining this Fall.
+Super excited to be joining NYU Courant's MSCS program this Fall! :)
