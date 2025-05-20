@@ -19,7 +19,7 @@ I'm a MSCS student at [NYU Courant](https://cs.nyu.edu/home/index.html).
 
 I did my bachelors in Computer Science and Engineering at School of Engineering, [CUSAT](https://www.cusat.ac.in/).
 
-I'm currently focused on **reinforcement learning** and **model interpretability**. Previously, I’ve worked on projects related to representation learning, federated learning for privacy-preserving AI, link prediction and node sampling in social networks, and blockchain systems using zero-knowledge proofs.
+My current research interests are **reinforcement learning** and **model interpretability**. Previously, I’ve worked on projects related to representation learning, federated learning for privacy-preserving AI, link prediction and node sampling in social networks, and blockchain systems using zero-knowledge proofs.
 
 
 Here is my *(hopefully updated)* [CV](assets/pdf/CV.pdf) <br>
