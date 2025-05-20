@@ -19,7 +19,7 @@ I'm a MSCS student at [NYU Courant](https://cs.nyu.edu/home/index.html).
 
 I did my bachelors in Computer Science and Engineering at School of Engineering, [CUSAT](https://www.cusat.ac.in/).
 
-Lately, I’ve been drawn to topics in **self-supervised learning** and **interpretability**. My past projects have covered a range of topics, including trustworthy ML (with work in federated learning), link prediction, node sampling, and zero-knowledge proofs.
+I'm currently focused on **reinforcement learning** and **model interpretability**. Previously, I’ve worked on projects related to representation learning, federated learning for privacy-preserving AI, link prediction and node sampling in social networks, and blockchain systems using zero-knowledge proofs.
 
 
 Here is my *(hopefully updated)* [CV](assets/pdf/CV.pdf) <br>
